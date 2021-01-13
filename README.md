@@ -3,6 +3,8 @@
 * Encrypting all types of files with AES 256 encryption algoritm.
 * Deleting shadow copies.
 * Overwritting LogonUI.exe.
+# How to decrypt files?
+* To decrypt files use "DaVinci" code
 
 I am not responsible for any damage to your computer
 
