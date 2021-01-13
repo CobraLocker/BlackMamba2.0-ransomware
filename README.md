@@ -3,6 +3,7 @@
 * Encrypting all types of files with AES 256 encryption algoritm.
 * Deleting shadow copies.
 * Overwritting LogonUI.exe.
+* BSOD when ransomware is killed
 # How to decrypt files?
 * To decrypt files use "DaVinci" code
 
