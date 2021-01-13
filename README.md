@@ -1,5 +1,5 @@
 # BlackMamba2.0-ransomware
-#Features:
+# Features:
 * Encrypting all types of files with AES 256 encryption algoritm.
 * Deleting shadow copies.
 * Overwritting LogonUI.exe.
